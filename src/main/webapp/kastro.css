@@ -45,7 +45,7 @@ body {
 
 .youtube-button, .github-button, .linkedin-button {
     display: inline-block;
-    background-color: #FF9900; /* AWS orange */
+    background-color: #f50a12; /* YouTube orange */
     color: white;
     border: none;
     padding: 10px 20px;
@@ -55,11 +55,11 @@ body {
 }
 
 .github-button {
-    background-color: #2496ED; /* Docker blue */
+    background-color: #0077B5; /* GitHub blue */
 }
 
 .linkedin-button {
-    background-color: #0077B5; /* LinkedIn blue */
+    background-color: #0e0af5; /* LinkedIn blue */
 }
 
 .image-container {
