@@ -43,7 +43,7 @@ body {
     margin: 20px auto;
 }
 
-.youtube-button, .linkedin-button, .github-button {
+.youtube-button, .github-button, .linkedin-button {
     display: inline-block;
     background-color: #FF9900; /* AWS orange */
     color: white;
@@ -54,11 +54,11 @@ body {
     margin-top: 10px;
 }
 
-.linkedin-button {
+.github-button {
     background-color: #2496ED; /* Docker blue */
 }
 
-.github-button {
+.linkedin-button {
     background-color: #0077B5; /* LinkedIn blue */
 }
 
