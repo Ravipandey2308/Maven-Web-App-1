@@ -89,10 +89,10 @@
     </div>
     <div class="image-container">
         <!-- Image at the bottom right of the page -->
-        <img src="https://media.licdn.com/dms/image/D5603AQHJB_lF1d9OSw/profile-displayphoto-shrink_800_800/0/1718971147172?e=1724284800&v=beta&t=HJC2dPANaLQK7Rs4P6UoZvRAdz0Se5s5js9SvlzhXXI" alt="Profile Image" class="profile-image">
+        <img src="D:\Company Documents & My Doc's\Passport Pic & Signature\IMG_590 Kb.jpg" alt="Profile Image" class="profile-image">
     </div>
     <div class="copyright">
-        <span class="icon">&copy;</span> Kastro
+        <span class="icon">&copy;</span> Hemant
     </div>
 </body>
 </html>
