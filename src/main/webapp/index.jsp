@@ -76,20 +76,20 @@
             <p><strong>DevOps Concepts:</strong> System Architecture, Introduction to DevOps, SDLC - Concept & Models, Maven, Git, GitHub, Tomcat, Jenkins, Docker, Kubernetes, Terraform, Ansible, SonarQube.</p>
             <p>
                 <a href="https://www.youtube.com/channel/UCPykNhXMa5ocCZIjASRGIcg" target="_blank">
-                    <button class="aws-button"><i class="fab fa-aws"></i> My YouTube Channel </button>
-                </a>
-                <a href="https://www.linkedin.com/in/hemant-kumar-singh-268868192/" target="_blank">
-                    <button class="docker-button"><i class="fab fa-docker"></i> Hemant - LinkedIn </button>
+                    <button class="youtube-button"><i class="fab fa-aws"></i> My YouTube Channel </button>
                 </a>
                 <a href="https://github.com/hemantkumarsingh114" target="_blank">
-                    <button class="linkedin-button"><i class="fab fa-linkedin"></i> Hemant - GITHUB </button>
+                    <button class="github-button"><i class="fab fa-docker"></i> Hemant - GITHUB </button>
+                </a>
+                <a href="https://www.linkedin.com/in/hemant-kumar-singh-268868192/" target="_blank">
+                    <button class="linkedin-button"><i class="fab fa-linkedin"></i> Hemant - LinkedIn </button>
                 </a>
             </p>
         </div>
     </div>
     <div class="image-container">
         <!-- Image at the bottom right of the page -->
-        <img src="D:\Company Documents & My Doc's\Passport Pic & Signature\IMG_590 Kb.jpg" alt="Profile Image" class="profile-image">
+        <img src="https://as1.ftcdn.net/v2/jpg/06/01/17/18/1000_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" alt="Profile Image" class="profile-image">
     </div>
     <div class="copyright">
         <span class="icon">&copy;</span> Hemant
