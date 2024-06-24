@@ -76,10 +76,10 @@
             <p><strong>DevOps Concepts:</strong> System Architecture, Introduction to DevOps, SDLC - Concept & Models, Maven, Git, GitHub, Tomcat, Jenkins, Docker, Kubernetes, Terraform, Ansible, SonarQube.</p>
             <p>
                 <a href="https://www.youtube.com/channel/UCPykNhXMa5ocCZIjASRGIcg" target="_blank">
-                    <button class="youtube-button"><i class="fab fa-aws"></i> My YouTube Channel </button>
+                    <button class="youtube-button"><i class="fab fa-youtube"></i> My YouTube Channel </button>
                 </a>
                 <a href="https://github.com/hemantkumarsingh114" target="_blank">
-                    <button class="github-button"><i class="fab fa-docker"></i> Hemant - GITHUB </button>
+                    <button class="github-button"><i class="fab fa-github"></i> Hemant - GITHUB </button>
                 </a>
                 <a href="https://www.linkedin.com/in/hemant-kumar-singh-268868192/" target="_blank">
                     <button class="linkedin-button"><i class="fab fa-linkedin"></i> Hemant - LinkedIn </button>
